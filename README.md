@@ -1,16 +1,12 @@
+<p align="left">
+<img src="https://github.com/jlk666/jlk666/moon.jpg" align="right">
+  
+<p align="left">
+
 ### Hi there 👋
+My name is Zhuosheng Liu.
+ - 🦊 I’m currently a Ph.D. candidate at UC Davis.  
+ - My research mainly focuses on foodborne human pathogens🦠: their phenotipic behaviors and in depth omics-information such as genomics and transcriptomics🧬.
+ - Check my personal webpage for the most updated research progress: [My personal website](https://jlk666.github.io/)  
 
-<!--
-**jlk666/jlk666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p> 
