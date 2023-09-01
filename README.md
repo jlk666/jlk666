@@ -9,5 +9,6 @@ My name is Zhuosheng Liu.
  - My research mainly focuses on foodborne human pathogens🦠: their phenotipic behaviors and in depth omics-information such as genomics and transcriptomics🧬.
  - My current research utilize deep learning methods to predict the pathogenicity of Vibrio parahaemolyticus based on its pangenome.
  - Check my personal webpage for the most updated research progress: [My personal website](https://jlk666.github.io/)  
+ - I am currently address reviewers' comments from Microbiology Spectrum. 
 
 </p> 
